@@ -35,7 +35,7 @@ Thank you to every language contributor for helping make Zalith Launcher 2 more 
 ### Build Steps
 
 ```bash
-git clone git@github.com:ZalithLauncher/ZalithLauncher2.git
+git clone git@github.com:Minetoor/ZL2Offline.git
 # Open the project in Android Studio and build
 ```
 
